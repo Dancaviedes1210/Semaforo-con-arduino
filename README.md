@@ -1,5 +1,5 @@
 # Semaforo-con-arduino
-Se creó un formulario en lenguaje c# a través de visual studio, en el cual se simuló el funcionamiento de un semáforo con luces led conectado a través de puerto serial en el cual se introducía el tiempo en minutos de la luz roja y verde, también se introducía el tiempo en segundos en el que la luz led amarilla simbolizaba la espera.
+Se creó un formulario en lenguaje c# a través de Microsoft visual studio,  en el cual se simuló el funcionamiento de un semáforo con luces led conectado a través de puerto serial en el cual se introducía el tiempo en minutos de la luz roja y verde, también se introducía el tiempo en segundos en el que la luz led amarilla simbolizaba la espera.
 
 En la pantalla se tienen los botones de start process y finish process. Y en la parte de arriba se tiene un timecounter.
 
@@ -19,3 +19,7 @@ En la pantalla se tienen los botones de start process y finish process. Y en la 
 # Ya por último se tiene a la luz roja
 
 ![redlight](https://user-images.githubusercontent.com/74988499/139129872-eeb2222c-9417-4cfc-80a6-ad13645252bd.jpeg)
+
+# Imagen del programa de arduino
+
+![arduino](https://user-images.githubusercontent.com/74988499/139141464-c05d11e2-ecf7-464f-bb71-57a22a505bf0.jpg)
